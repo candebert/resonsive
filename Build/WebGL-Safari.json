@@ -1,0 +1,16 @@
+{
+"companyName": "TGA",
+"productName": "Playcare",
+"productVersion": "1.0.0",
+"dataUrl": "WebGL-Safari.data.unityweb",
+"wasmCodeUrl": "WebGL-Safari.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL-Safari.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
